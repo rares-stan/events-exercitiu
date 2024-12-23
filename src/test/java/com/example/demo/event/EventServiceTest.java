@@ -191,6 +191,7 @@ class EventServiceTest {
         Mockito.when(a.hourlyEventMeanExceptDate(d, deviceId)).thenReturn(avgList);
         Mockito.when(a.hourlyBusyGrades(d, deviceId)).thenCallRealMethod();
 
+        
         var res = a.hourlyBusyGrades(d, deviceId);
 
         for(var t : res) {
