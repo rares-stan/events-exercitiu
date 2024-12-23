@@ -1,0 +1,1097 @@
+{
+  "events": [
+    {
+      "type": "Movement",
+      "createdOn": "2024-12-20T16:39:08.965",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T08:32:39.515Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T18:11:54.002Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T15:21:55.103Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T18:28:47.327Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T18:03:17.868Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T17:04:31.800Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T17:41:00.266Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T09:46:30.920Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T09:48:59.732Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T08:35:10.403Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T09:50:10.749Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T12:28:31.253Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T15:16:58.136Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T11:19:26.274Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T16:47:26.656Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T08:30:28.493Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T17:39:42.998Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T10:11:48.115Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T18:35:03.761Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "Movement",
+      "createdOn": "2024-10-12T09:10:47.614Z",
+      "deviceId": 1,
+      "userId": 1
+    }, {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T16:28:00.147Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T11:30:47.829Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T15:56:57.173Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T16:49:46.381Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T19:01:31.965Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T11:09:24.451Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T09:40:38.759Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T11:37:56.146Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T11:46:11.159Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T08:14:09.734Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T19:45:56.197Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T12:28:04.158Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T12:27:19.009Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T19:12:18.644Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T19:49:31.210Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T11:23:52.497Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T11:48:36.630Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T10:47:52.778Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T18:57:59.708Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-12T09:19:58.353Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T18:31:17.330Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T14:36:00.324Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T17:31:41.574Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T19:24:05.156Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T12:44:49.201Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T11:58:20.761Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T07:03:02.740Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T07:10:02.382Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T15:23:36.966Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T11:22:29.139Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T19:12:59.879Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T08:20:03.217Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T14:34:16.973Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T18:10:55.550Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T19:56:59.562Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T08:13:23.697Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T11:24:08.410Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T18:49:38.400Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T12:33:28.455Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-11T08:14:53.989Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T16:28:02.480Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T18:41:28.711Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T10:04:59.105Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T08:44:40.240Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T19:30:42.231Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T14:14:02.007Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T19:20:42.146Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T19:49:37.409Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T09:05:13.378Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T14:37:15.455Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T10:25:19.290Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T12:21:36.452Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T11:16:49.331Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T11:47:17.271Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T11:48:29.089Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T08:42:05.106Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T10:25:31.945Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T12:05:29.385Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T14:35:09.651Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-13T18:26:46.991Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:14:15.006Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:03:26.530Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:53:58.674Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T09:11:37.061Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T16:03:34.381Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T13:24:43.726Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:15:56.976Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:26:25.211Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:46:29.165Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T16:13:56.850Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:24:03.465Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T13:08:24.892Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T15:48:07.061Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:00:07.607Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T14:12:57.210Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:40:01.296Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:51:14.593Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:11:42.300Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:27:43.668Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T11:16:26.736Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:36:37.694Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:01:41.361Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T15:24:43.640Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T12:05:31.589Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:10:21.121Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T12:24:20.369Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T19:30:25.825Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T15:38:17.708Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T15:00:32.567Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:17:13.888Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T11:05:08.657Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T15:59:27.538Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:57:47.511Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T16:14:12.314Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:23:21.117Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T11:38:24.038Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:02:29.592Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T15:21:13.346Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T13:31:41.694Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T08:39:22.065Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T11:17:15.410Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T16:20:33.465Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T13:08:09.614Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T08:30:55.424Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T13:32:24.132Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T08:50:49.797Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T11:50:30.726Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T08:18:55.949Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:30:22.464Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T09:21:53.766Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T14:50:54.377Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T07:34:01.955Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T16:10:28.776Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T15:00:47.621Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:33:26.027Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:17:47.366Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T12:22:07.631Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T07:30:41.630Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T14:33:09.465Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T07:12:57.006Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T14:57:19.334Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T07:57:05.918Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T19:54:49.168Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T16:13:34.123Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T14:33:33.064Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T11:11:42.396Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:39:21.413Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:24:44.855Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:41:29.017Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T15:30:36.426Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T11:24:42.790Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T14:35:07.279Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T13:35:39.963Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T12:46:16.814Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T19:11:20.963Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:48:42.774Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T07:26:59.602Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T19:54:56.283Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T12:06:59.734Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T13:13:54.554Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:47:57.368Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T18:54:38.475Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T07:09:03.562Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:06:19.258Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T07:22:34.377Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T13:59:52.242Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T12:36:28.015Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T09:04:25.921Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T17:24:50.507Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T09:51:33.969Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T16:04:33.680Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T13:22:34.115Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T08:06:52.613Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T10:38:13.338Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T11:13:30.370Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T08:28:06.638Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T11:38:12.458Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T14:53:57.457Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T15:06:19.511Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {
+      "type": "OpenDoor",
+      "createdOn": "2024-10-14T16:28:19.221Z",
+      "deviceId": 1,
+      "userId": 1
+    },
+    {"type":"OpenDoor",	"createdOn":"2024-12-20 16:39:08.965",	"deviceId":2,	"userId":2},
+    {"type":"OpenDoor",	"createdOn":"2024-12-20 16:39:08.965",	"deviceId":2,	"userId":2},
+    {"type":"OpenDoor",	"createdOn":"2024-12-20 16:39:08.965",	"deviceId":2,	"userId":2},
+    {"type":"OpenDoor",	"createdOn":"2024-12-20 16:39:08.965",	"deviceId":2,	"userId":2},
+    {"type":"OpenDoor",	"createdOn":"2024-12-19 16:39:08.965",	"deviceId":2,	"userId":2},
+    {"type":"OpenDoor",	"createdOn":"2024-12-19 16:39:08.965",	"deviceId":2,	"userId":2},
+    {"type":"OpenDoor",	"createdOn":"2024-12-19 15:39:08.965",	"deviceId":2,	"userId":2},
+    {"type":"OpenDoor",	"createdOn":"2024-12-19 15:39:08.965",	"deviceId":2,	"userId":2}
+  ]
+}
